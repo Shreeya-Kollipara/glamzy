@@ -77,6 +77,11 @@ Lead Designer & Developer 🎓
 
 > “Elegance is the only beauty that never fades.” – **Audrey Hepburn** 💫
 
----
+---<img width="1857" height="914" alt="Screenshot 2025-07-28 093826" src="https://github.com/user-attachments/assets/a906b073-5791-453b-8824-0b3bcc53eca1" />
 
-© 2025 Glamzy. All Sparkles Reserved ✨
+<img width="1858" height="913" alt="Screenshot 2025-07-28 093839" src="https://github.com/user-attachments/assets/5b41e895-c1a6-4b9b-8579-6bea63147413" />
+
+
+<img width="1830" height="907" alt="Screenshot 2025-07-28 093856" src="https://github.com/user-attachments/assets/a8c3a126-fc40-436e-88e2-fe9cef911af7" />
+<img width="1854" height="916" alt="Screenshot 2025-07-28 093910" src="https://github.com/user-attachments/assets/566b3230-4c4a-48d5-8107-7edb7a905aa0" />
+<img width="1855" height="913" alt="Screenshot 2025-07-28 093924" src="https://github.com/user-attachments/assets/47476adf-d1b2-4f68-9954-23b93ddbd3b4" />
