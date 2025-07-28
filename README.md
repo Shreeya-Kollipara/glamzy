@@ -77,8 +77,8 @@ Lead Designer & Developer 🎓
 
 > “Elegance is the only beauty that never fades.” – **Audrey Hepburn** 💫
 
----<img width="1857" height="914" alt="Screenshot 2025-07-28 093826" src="https://github.com/user-attachments/assets/a906b073-5791-453b-8824-0b3bcc53eca1" />
-
+---
+<img width="1857" height="558" alt="Screenshot 2025-07-28 093826" src="https://github.com/user-attachments/assets/af0e1a23-dc39-49d5-b8e9-92da2ef4cc07" />
 <img width="1858" height="913" alt="Screenshot 2025-07-28 093839" src="https://github.com/user-attachments/assets/5b41e895-c1a6-4b9b-8579-6bea63147413" />
 
 
