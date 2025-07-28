@@ -1,0 +1,116 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Cute pink and white short dress",
+        "price": "1300",
+        "url": "https://i.pinimg.com/474x/88/29/dc/8829dc9c7a23dfa7ef3d4ba4fab61f49.jpg",
+        "category": "Dresses"
+      },
+      {
+        "id": 2,
+        "title": "Women's vintage denim dress - with cute bow",
+        "price": "2100",
+        "url": "https://i.pinimg.com/474x/08/31/d2/0831d24d83c9ac74e83ff55d88808564.jpg",
+        "category": "Dresses"
+      },
+      {
+        "id": 3,
+        "title": "Dreamy bow - set of 5 chains",
+        "price": "900",
+        "url": "https://i.pinimg.com/474x/8e/f2/21/8ef2217a7070d24db4b6af7d626bb88f.jpg",
+        "category": "Jewellery"
+      },
+      {
+        "id": 4,
+        "title": "Butterfly Pearl jewellery set",
+        "price": "1000",
+        "url": "https://i.pinimg.com/736x/50/10/21/501021326865923f2222d5c91c34b57f.jpg",
+        "category": "Jewellery"
+      },
+      {
+        "id": 5,
+        "title": "Pinky Bowestic -  short frock",
+        "price": "1000",
+        "url": "https://i.pinimg.com/736x/b8/1c/8f/b81c8f002a2a7270d650100ad58b5c5e.jpg",
+        "category": "Dresses"
+      },
+      {
+        "id": 6,
+        "title": "Cute phone charms",
+        "price": "500",
+        "url": "https://i.pinimg.com/736x/02/f5/6e/02f56e12003aa1d83edadc760793a738.jpg",
+        "category": "Accessories"
+      },
+      {
+        "id": 7,
+        "title": "Pink and white sneakers",
+        "price": "5000",
+        "url": "https://i.pinimg.com/474x/6f/c9/73/6fc973e11de730782b6a15906313d7de.jpg",
+        "category": "Footwear"
+      },
+      {
+        "id": 8,
+        "title": "Cute aesthetic cherry blossom sneakers",
+        "price": "3000",
+        "url": "https://i.pinimg.com/474x/2e/5a/af/2e5aaf9bdaf248c17d0174796af51cfa.jpg",
+        "category": "Footwear"
+      },
+      {
+        "id": 9,
+        "title": "heart filled cute sneakers",
+        "price": "3000",
+        "url": "https://i.pinimg.com/474x/49/17/e8/4917e855d24037460b76b0ac8b30cf3f.jpg",
+        "category": "Footwear"
+      },
+      {
+        "id": 10,
+        "title": "Pink bow fabric hair clip",
+        "price": "300",
+        "url": "https://i.pinimg.com/736x/70/5f/31/705f3114fd7d67687b4a628b908ca68f.jpg",
+        "category": "Accessories"
+      },
+      {
+        "id": 11,
+        "title": "Pink Beads Beaded Bracelet Set",
+        "price": "700",
+        "url": "https://i.pinimg.com/736x/9d/3e/44/9d3e44837b2d87f2755a03c4ca6a31dc.jpg",
+        "category": "Accessories"
+      },
+      {
+        "id": 12,
+        "title": "Lavender craze - bracelet stack of 4",
+        "price": "500",
+        "url": "https://i.pinimg.com/736x/ce/49/ff/ce49ff61e396db545aca1e2c35214390.jpg",
+        "category": "Accessories"
+      },
+      {
+        "id": 13,
+        "title": "Bows and Pearls Cute Kawaii Beaded Phone Case",
+        "price": "900",
+        "url": "https://i.pinimg.com/736x/81/0e/9d/810e9d6ee524127b430b18b4f90d9381.jpg",
+        "category": "Accessories"
+      },
+      {
+        "id": 14,
+        "title": "Kids clips - cute pink",
+        "price": "200",
+        "url": "https://i.pinimg.com/736x/09/60/e6/0960e6709dd0bf6647309dfa7cb7a801.jpg",
+        "category": "Accessories"
+      },
+      {
+        "id": 15,
+        "title": "Aesthetic claw clips",
+        "price": "250",
+        "url": "https://i.pinimg.com/474x/09/e5/40/09e5403e65daa067649f1be1b5da3439.jpg",
+        "category": "Accessories"
+      },
+      {
+        "id": 16,
+        "title": "Hearts filled cute claw clips",
+        "price": "300",
+        "url": "https://i.pinimg.com/474x/5d/2b/28/5d2b28eedb1a90320e3b2b94d5785656.jpg",
+        "category": "Accessories"
+      }
+    ]
+  }
